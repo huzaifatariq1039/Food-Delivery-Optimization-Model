@@ -148,8 +148,8 @@ This analysis could actually be used by:
 
 Built this project? Have questions? Want to chat about delivery logistics or data science?
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
+- **Email:** cadethuzaifatariq@gmail.com
+- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/huzaifa-tariq-719b72307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android)
 - **Issues/Questions:** Use GitHub Issues - I actually read them!
 
 ## A Personal Note
